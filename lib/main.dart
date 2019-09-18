@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: MyHomePage(title: 'Chatter'),
+      home: MyHomePage(title: 'Chatter Messaging'),
     );
   }
 
